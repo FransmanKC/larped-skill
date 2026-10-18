@@ -2,6 +2,10 @@
 
 A Claude Code plugin that checks whether a Solana token's tech claims hold up, using the public [Larped](https://www.larped.tech) scanner. No API keys needed.
 
+**Official Larped token (CA):** `Fh6cy91FYhFfJ23hf4181gHVsrWkEY5b7es8MNXHpump`
+
+Only this address is the official Larped token. Check it on [larped.tech](https://www.larped.tech).
+
 ## Install
 
 In Claude Code:
