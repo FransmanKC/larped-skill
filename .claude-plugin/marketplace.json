@@ -1,0 +1,12 @@
+{
+  "name": "larped",
+  "description": "Larped for Claude Code: check whether a Solana token's tech claims hold up",
+  "owner": { "name": "FransmanKC", "url": "https://github.com/FransmanKC" },
+  "plugins": [
+    {
+      "name": "larped",
+      "source": "./",
+      "description": "Check a Solana token for larp signals: creator behaviour, linked wallets, money trail, and proof of real tech."
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "larped",
+  "version": "0.1.0",
+  "description": "Check whether a Solana token's tech claims hold up, using the public Larped API: red flags vs proofs, money trail and timeline. No keys needed.",
+  "author": { "name": "FransmanKC", "url": "https://github.com/FransmanKC" },
+  "homepage": "https://larped-three.vercel.app",
+  "repository": "https://github.com/FransmanKC/larped-skill",
+  "license": "MIT",
+  "keywords": ["solana", "token", "crypto", "larp", "pump.fun", "research"]
+}
