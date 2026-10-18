@@ -4,8 +4,9 @@ argument-hint: <token mint address>
 allowed-tools: Bash(larped *)
 ---
 
-Run `larped <mint>` for the token mint address in "$ARGUMENTS" (or the one the user gave). Add `--fresh` only
-if the user asks for a new scan, and `--json` only if you need a field the text output does not show.
+Run `larped <mint>` for the token mint address in "$ARGUMENTS" (or the one the user gave). Add `--json` only
+if you need a field the text output does not show. Results refresh automatically when outdated; there is no way
+to force a rescan.
 
 Then answer in this order, briefly:
 
