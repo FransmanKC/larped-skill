@@ -1,6 +1,6 @@
 # Larped for Claude Code
 
-A Claude Code plugin that checks whether a Solana token's tech claims hold up, using the public [Larped](https://larped-three.vercel.app) scanner. No API keys needed.
+A Claude Code plugin that checks whether a Solana token's tech claims hold up, using the public [Larped](https://www.larped.tech) scanner. No API keys needed.
 
 ## Install
 
